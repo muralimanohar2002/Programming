@@ -33,10 +33,14 @@ int main()
         }
         
     }
+
+    cout<<"A change";
     for(int i=0;i<v.size();i++)
     {
         cout <<"."<<v[i];
     }
+
+    cout<<"New change";
 
     return 0;
 }
