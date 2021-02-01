@@ -22,6 +22,7 @@ int main()
 
     }
 
+    cout<<"Yo yo git";
     if(flag==5)
     {
         cout << "YES";
