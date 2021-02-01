@@ -10,6 +10,8 @@ int main()
     vector<char>v;
 
     cin >> s;
+
+    cout<<"bruh chill";
     
     for(int i=0;i<s.length();i++)
     {
